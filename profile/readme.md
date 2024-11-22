@@ -8,3 +8,6 @@ art by [たまこ](https://x.com/0913_tkg) and Gonebeef
 - Design
 - AI Research
 - Localization
+
+# We build in public!
+Every single one of our services live on public repositories in this GitHub organisation. We hope that they inspire someone to give development a try for themselves :3 Have fun!
